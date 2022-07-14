@@ -1,0 +1,203 @@
+body{
+  background-color: #F2E1FF
+}
+
+.intro{
+  position: absolute;
+width: 634.4px;
+height: 105px;
+left: 660.12;
+top: 509.89;
+
+
+font-family: 'Gentium Basic';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+
+color: #000000;
+
+}
+
+#parth{
+  position: absolute;
+width: 625.35px;
+height: 92.6px;
+left: 622.19px;
+top: 417.94px;
+}
+
+#re1{
+  position: absolute;
+width: 377.56px;
+height: 426.9px;
+left: 191.6px;
+top: 328.12px;
+}
+
+#re2{
+  position: absolute;
+width: 377.56px;
+height: 426.9px;
+left: 164.48px;
+top: 306.81px;
+}
+
+.home{
+  position: absolute;
+width: 94px;
+height: 28px;
+left: 96.78px;
+top: 83px;
+
+font-family: 'Optima';
+font-style: normal;
+font-weight: 550;
+font-size: 30px;
+line-height: 28px;
+
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+.certi{
+  position: absolute;
+width: 197px;
+height: 28px;
+left: 305.64px;
+top: 83px;
+
+font-family: 'Optima';
+font-style: normal;
+font-weight: 550;
+font-size: 30px;
+line-height: 28px;
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+}
+.work{
+  position: absolute;
+width: 94px;
+height: 28px;
+left: 998.6px;
+top: 83px;
+
+font-family: 'Optima';
+font-style: normal;
+font-weight: 550;
+font-size: 30px;
+line-height: 28px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+}
+.cont{
+  position: absolute;
+width: 147px;
+height: 28px;
+left: 1195.43px;
+top: 83px;
+
+font-family: 'Optima';
+font-style: normal;
+font-weight: 550;
+font-size: 30px;
+line-height: 28px;
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+.CERTIFICATES{
+
+  position: absolute;
+  width: 320px;
+  height: 57px;
+  left: 560px;
+  top: 1154px;
+
+  font-family: 'Optima';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 57px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #000000;
+
+  text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+#devtown1{
+  position: absolute;
+width: 448px;
+height: 318px;
+left: 78px;
+top: 1308px;
+
+
+}
+#devtown2{
+  position: absolute;
+width: 448px;
+height: 318px;
+left: 909px;
+top: 1304px;
+
+
+}
+#manipal{
+  position: absolute;
+width: 448px;
+height: 318px;
+left: 75px;
+top: 1716px;
+
+}
+
+#introduction{
+  position: relative;
+width: 634.4px;
+height: 105px;
+top: 509.89px;
+left: 660.12px;
+
+font-family: 'Gentium Basic';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+
+color: #000000;
+}
